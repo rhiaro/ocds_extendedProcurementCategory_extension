@@ -10,5 +10,8 @@
   ],
   "documentationUrl": {
     "en": "https://github.com/INAImexico/ocds_extendedProcurementCategory_extension"
-   }
+   },
+  "codelist": [
+    "+extendedProcurementCategory.csv",
+  ]
 }
