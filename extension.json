@@ -6,12 +6,12 @@
     "en": "Categorize more specifically the good or service to be hired."
    },
   "compatibility": [
-  "1.1",
+  "1.1"
   ],
   "documentationUrl": {
     "en": "https://github.com/INAImexico/ocds_extendedProcurementCategory_extension"
    },
-  "codelist": [
-    "+extendedProcurementCategory.csv",
+  "codelists": [
+    "+extendedProcurementCategory.csv"
   ]
 }
