@@ -1,7 +1,7 @@
 # Extended procurement category
 ## Description:
 
-Categorize more specifically the good or service to be hired.
+Add additional categories in order to classify more specifically the good or service to be contracted.
 
 ## Proposal:
 
