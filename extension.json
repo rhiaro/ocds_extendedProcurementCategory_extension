@@ -3,7 +3,7 @@
     "en" : "Extended procurement category"
    },
   "description": {
-    "en": "Categorize more specifically the good or service to be hired."
+    "en": "Add additional categories in order to classify more specifically the good or service to be contracted."
    },
   "compatibility": [
   "1.1",
