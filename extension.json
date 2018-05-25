@@ -1,17 +1,17 @@
 {
   "name": {
-    "en" : "Extended procurement category"
-   },
+    "en": "Extended procurement category"
+  },
   "description": {
     "en": "Add additional categories in order to classify more specifically the good or service to be contracted."
    },
   "compatibility": [
-  "1.1",
+    "1.1"
   ],
   "documentationUrl": {
     "en": "https://github.com/INAImexico/ocds_extendedProcurementCategory_extension"
-   },
-  "codelist": [
-    "+extendedProcurementCategory.csv",
+  },
+  "codelists": [
+    "+extendedProcurementCategory.csv"
   ]
 }
